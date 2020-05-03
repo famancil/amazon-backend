@@ -17,7 +17,7 @@ ARG JAR_FILE=target/demo-0.0.1-SNAPSHOT.jar
 ADD ${JAR_FILE} DEMO.jar
 
 # Run the jar file
-ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/GDEH.jar"]
+ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/DEMO.jar"]
 
 # Set TimeZone
 RUN apk add --no-cache tzdata
