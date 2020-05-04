@@ -1,2 +1,7 @@
-D:\Amazon\Nano\demo\demo\src\main\java\com\java\biblioteca\demo\controllers\HomeController.java
-D:\Amazon\Nano\demo\demo\src\main\java\com\java\biblioteca\demo\DemoApplication.java
+D:\Amazon\Nano\demo\src\main\java\com\java\biblioteca\demo\entities\User.java
+D:\Amazon\Nano\demo\src\main\java\com\java\biblioteca\demo\services\user\IUserService.java
+D:\Amazon\Nano\demo\src\main\java\com\java\biblioteca\demo\controllers\UserController.java
+D:\Amazon\Nano\demo\src\main\java\com\java\biblioteca\demo\controllers\HomeController.java
+D:\Amazon\Nano\demo\src\main\java\com\java\biblioteca\demo\DemoApplication.java
+D:\Amazon\Nano\demo\src\main\java\com\java\biblioteca\demo\services\user\UserService.java
+D:\Amazon\Nano\demo\src\main\java\com\java\biblioteca\demo\repositories\IUserRepository.java

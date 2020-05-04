@@ -1,2 +1,7 @@
-com\java\biblioteca\demo\controllers\HomeController.class
+com\java\biblioteca\demo\entities\User.class
 com\java\biblioteca\demo\DemoApplication.class
+com\java\biblioteca\demo\services\user\IUserService.class
+com\java\biblioteca\demo\controllers\UserController.class
+com\java\biblioteca\demo\controllers\HomeController.class
+com\java\biblioteca\demo\services\user\UserService.class
+com\java\biblioteca\demo\repositories\IUserRepository.class
